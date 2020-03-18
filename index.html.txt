@@ -1,0 +1,50 @@
+<html>
+  <head> 
+     <meta charset="utr-8">
+    <title>THARAK RAM SITE</TITLE>
+  </head>
+  <body>
+    
+    <table>
+      <tr>
+        <td><img src="https://media-exp1.licdn.com/dms/image/C5103AQFVsLm3byEXow/profile-displayphoto-shrink_200_200/0?e=1590019200&v=beta&t=NSiPhFoIK6kHJ84OxIOXDpsEkQLCk9upz-Fb4LL2IFA"alt=""></td>
+        <td><h1>THARAK RAM</h1>
+    <h2>Resume Objective</h2>
+    <p>To utilize my strong sense of dedication, determination and responsibility to solve the real-world problems posed in the field of my education and expertise. I would also like to gain employment in a company that will help me achieve my goals, enhance my skills, and work as a team player in a positive environment.</p></td>
+      </tr>
+    </table>
+    
+    <hr>
+    <h3>Education</h3>
+    <ul>
+      <li>Masters of technology in software Enginering</li>
+      <ul><li> vellore institute of technology</li>
+        <li>cgpa-7.7</li>
+      </ul>
+    </ul>
+     <hr>
+      <h3>projects</h3>
+    <h4>E commerce website</h4>
+    <ul>
+      <li>Features: List a Product for sale, Buy a product others listed, payment gateway, wish-list</li>
+      <li>Technologies used</li>
+      <li>Frontend:ReactJS</li>
+      <li>Backend:JAVA</li>
+      <li>DB: MySql</li>
+    </ul>
+    <h4>Chat app</h4>
+    <ul>
+      <li>Technologies used</li>
+      <li>Frontend:ReactJs</li>
+      <li>Backend:Nodejs</li>
+      <li>DB:MongoDB</li>
+    </ul>
+        
+      
+                 
+     
+   
+          
+    
+    
+    
